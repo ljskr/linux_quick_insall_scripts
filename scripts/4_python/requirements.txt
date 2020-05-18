@@ -1,0 +1,21 @@
+# 科学计算
+numpy
+scipy
+pandas
+matplotlib
+sklearn
+ 
+# 图像
+opencv-python
+pillow
+ 
+# jupyter notebook
+jupyterlab
+ 
+# 文件规范
+pylint
+autopep8
+ 
+# 虚拟环境
+pipenv
+virtualenvwrapper

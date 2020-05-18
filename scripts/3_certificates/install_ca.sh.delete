@@ -1,0 +1,7 @@
+#!/bin/bash
+
+set -e
+
+# 安装 ca 证书
+cp /path/to/my_ca.crt /usr/local/share/ca-certificates/
+update-ca-certificates
